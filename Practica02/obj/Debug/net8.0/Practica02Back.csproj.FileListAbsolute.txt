@@ -1,0 +1,153 @@
+C:\Users\HP\source\repos\Practica02\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\HP\source\repos\Practica02\bin\Debug\net8.0\appsettings.json
+C:\Users\HP\source\repos\Practica02\bin\Debug\net8.0\Practica02Back.exe
+C:\Users\HP\source\repos\Practica02\bin\Debug\net8.0\Practica02Back.deps.json
+C:\Users\HP\source\repos\Practica02\bin\Debug\net8.0\Practica02Back.runtimeconfig.json
+C:\Users\HP\source\repos\Practica02\bin\Debug\net8.0\Practica02Back.dll
+C:\Users\HP\source\repos\Practica02\bin\Debug\net8.0\Practica02Back.pdb
+C:\Users\HP\source\repos\Practica02\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\HP\source\repos\Practica02\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\HP\source\repos\Practica02\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\HP\source\repos\Practica02\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\HP\source\repos\Practica02\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\HP\source\repos\Practica02\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\HP\source\repos\Practica02\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\HP\source\repos\Practica02\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\HP\source\repos\Practica02\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\HP\source\repos\Practica02\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\HP\source\repos\Practica02\obj\Debug\net8.0\Practica02Back.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Practica02\obj\Debug\net8.0\Practica02Back.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Practica02\obj\Debug\net8.0\Practica02Back.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Practica02\obj\Debug\net8.0\Practica02Back.AssemblyInfo.cs
+C:\Users\HP\source\repos\Practica02\obj\Debug\net8.0\Practica02Back.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Practica02\obj\Debug\net8.0\Practica02Back.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HP\source\repos\Practica02\obj\Debug\net8.0\Practica02Back.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\source\repos\Practica02\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\HP\source\repos\Practica02\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\HP\source\repos\Practica02\obj\Debug\net8.0\staticwebassets\msbuild.Practica02Back.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\HP\source\repos\Practica02\obj\Debug\net8.0\staticwebassets\msbuild.build.Practica02Back.props
+C:\Users\HP\source\repos\Practica02\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Practica02Back.props
+C:\Users\HP\source\repos\Practica02\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Practica02Back.props
+C:\Users\HP\source\repos\Practica02\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\HP\source\repos\Practica02\obj\Debug\net8.0\scopedcss\bundle\Practica02Back.styles.css
+C:\Users\HP\source\repos\Practica02\obj\Debug\net8.0\Practica.9BB0094C.Up2Date
+C:\Users\HP\source\repos\Practica02\obj\Debug\net8.0\Practica02Back.dll
+C:\Users\HP\source\repos\Practica02\obj\Debug\net8.0\refint\Practica02Back.dll
+C:\Users\HP\source\repos\Practica02\obj\Debug\net8.0\Practica02Back.pdb
+C:\Users\HP\source\repos\Practica02\obj\Debug\net8.0\Practica02Back.genruntimeconfig.cache
+C:\Users\HP\source\repos\Practica02\obj\Debug\net8.0\ref\Practica02Back.dll
+C:\Users\HP\Downloads\Programacion Logica\Practica02\Practica02\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\HP\Downloads\Programacion Logica\Practica02\Practica02\bin\Debug\net8.0\appsettings.json
+C:\Users\HP\Downloads\Programacion Logica\Practica02\Practica02\bin\Debug\net8.0\Practica02Back.exe
+C:\Users\HP\Downloads\Programacion Logica\Practica02\Practica02\bin\Debug\net8.0\Practica02Back.deps.json
+C:\Users\HP\Downloads\Programacion Logica\Practica02\Practica02\bin\Debug\net8.0\Practica02Back.runtimeconfig.json
+C:\Users\HP\Downloads\Programacion Logica\Practica02\Practica02\bin\Debug\net8.0\Practica02Back.dll
+C:\Users\HP\Downloads\Programacion Logica\Practica02\Practica02\bin\Debug\net8.0\Practica02Back.pdb
+C:\Users\HP\Downloads\Programacion Logica\Practica02\Practica02\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\HP\Downloads\Programacion Logica\Practica02\Practica02\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\HP\Downloads\Programacion Logica\Practica02\Practica02\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\HP\Downloads\Programacion Logica\Practica02\Practica02\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\HP\Downloads\Programacion Logica\Practica02\Practica02\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\HP\Downloads\Programacion Logica\Practica02\Practica02\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\HP\Downloads\Programacion Logica\Practica02\Practica02\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\HP\Downloads\Programacion Logica\Practica02\Practica02\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\HP\Downloads\Programacion Logica\Practica02\Practica02\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\HP\Downloads\Programacion Logica\Practica02\Practica02\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\HP\Downloads\Programacion Logica\Practica02\Practica02\obj\Debug\net8.0\Practica02Back.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\Programacion Logica\Practica02\Practica02\obj\Debug\net8.0\Practica02Back.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\Programacion Logica\Practica02\Practica02\obj\Debug\net8.0\Practica02Back.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\Programacion Logica\Practica02\Practica02\obj\Debug\net8.0\Practica02Back.AssemblyInfo.cs
+C:\Users\HP\Downloads\Programacion Logica\Practica02\Practica02\obj\Debug\net8.0\Practica02Back.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\Programacion Logica\Practica02\Practica02\obj\Debug\net8.0\Practica02Back.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HP\Downloads\Programacion Logica\Practica02\Practica02\obj\Debug\net8.0\Practica02Back.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\Downloads\Programacion Logica\Practica02\Practica02\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\HP\Downloads\Programacion Logica\Practica02\Practica02\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\HP\Downloads\Programacion Logica\Practica02\Practica02\obj\Debug\net8.0\staticwebassets\msbuild.Practica02Back.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\HP\Downloads\Programacion Logica\Practica02\Practica02\obj\Debug\net8.0\staticwebassets\msbuild.build.Practica02Back.props
+C:\Users\HP\Downloads\Programacion Logica\Practica02\Practica02\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Practica02Back.props
+C:\Users\HP\Downloads\Programacion Logica\Practica02\Practica02\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Practica02Back.props
+C:\Users\HP\Downloads\Programacion Logica\Practica02\Practica02\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\HP\Downloads\Programacion Logica\Practica02\Practica02\obj\Debug\net8.0\scopedcss\bundle\Practica02Back.styles.css
+C:\Users\HP\Downloads\Programacion Logica\Practica02\Practica02\obj\Debug\net8.0\Practica.9BB0094C.Up2Date
+C:\Users\HP\Downloads\Programacion Logica\Practica02\Practica02\obj\Debug\net8.0\Practica02Back.dll
+C:\Users\HP\Downloads\Programacion Logica\Practica02\Practica02\obj\Debug\net8.0\refint\Practica02Back.dll
+C:\Users\HP\Downloads\Programacion Logica\Practica02\Practica02\obj\Debug\net8.0\Practica02Back.pdb
+C:\Users\HP\Downloads\Programacion Logica\Practica02\Practica02\obj\Debug\net8.0\Practica02Back.genruntimeconfig.cache
+C:\Users\HP\Downloads\Programacion Logica\Practica02\Practica02\obj\Debug\net8.0\ref\Practica02Back.dll
+C:\Users\HP\Downloads\Programacion Logica\Practica02\Practica02\Practica02\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\HP\Downloads\Programacion Logica\Practica02\Practica02\Practica02\bin\Debug\net8.0\appsettings.json
+C:\Users\HP\Downloads\Programacion Logica\Practica02\Practica02\Practica02\bin\Debug\net8.0\Practica02Back.exe
+C:\Users\HP\Downloads\Programacion Logica\Practica02\Practica02\Practica02\bin\Debug\net8.0\Practica02Back.deps.json
+C:\Users\HP\Downloads\Programacion Logica\Practica02\Practica02\Practica02\bin\Debug\net8.0\Practica02Back.runtimeconfig.json
+C:\Users\HP\Downloads\Programacion Logica\Practica02\Practica02\Practica02\bin\Debug\net8.0\Practica02Back.dll
+C:\Users\HP\Downloads\Programacion Logica\Practica02\Practica02\Practica02\bin\Debug\net8.0\Practica02Back.pdb
+C:\Users\HP\Downloads\Programacion Logica\Practica02\Practica02\Practica02\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\HP\Downloads\Programacion Logica\Practica02\Practica02\Practica02\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\HP\Downloads\Programacion Logica\Practica02\Practica02\Practica02\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\HP\Downloads\Programacion Logica\Practica02\Practica02\Practica02\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\HP\Downloads\Programacion Logica\Practica02\Practica02\Practica02\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\HP\Downloads\Programacion Logica\Practica02\Practica02\Practica02\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\HP\Downloads\Programacion Logica\Practica02\Practica02\Practica02\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\HP\Downloads\Programacion Logica\Practica02\Practica02\Practica02\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\HP\Downloads\Programacion Logica\Practica02\Practica02\Practica02\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\HP\Downloads\Programacion Logica\Practica02\Practica02\Practica02\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\HP\Downloads\Programacion Logica\Practica02\Practica02\Practica02\obj\Debug\net8.0\Practica02Back.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\Programacion Logica\Practica02\Practica02\Practica02\obj\Debug\net8.0\Practica02Back.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\Programacion Logica\Practica02\Practica02\Practica02\obj\Debug\net8.0\Practica02Back.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\Programacion Logica\Practica02\Practica02\Practica02\obj\Debug\net8.0\Practica02Back.AssemblyInfo.cs
+C:\Users\HP\Downloads\Programacion Logica\Practica02\Practica02\Practica02\obj\Debug\net8.0\Practica02Back.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\Programacion Logica\Practica02\Practica02\Practica02\obj\Debug\net8.0\Practica02Back.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HP\Downloads\Programacion Logica\Practica02\Practica02\Practica02\obj\Debug\net8.0\Practica02Back.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\Downloads\Programacion Logica\Practica02\Practica02\Practica02\obj\Debug\net8.0\Practica02Back.sourcelink.json
+C:\Users\HP\Downloads\Programacion Logica\Practica02\Practica02\Practica02\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\HP\Downloads\Programacion Logica\Practica02\Practica02\Practica02\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\HP\Downloads\Programacion Logica\Practica02\Practica02\Practica02\obj\Debug\net8.0\staticwebassets\msbuild.Practica02Back.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\HP\Downloads\Programacion Logica\Practica02\Practica02\Practica02\obj\Debug\net8.0\staticwebassets\msbuild.build.Practica02Back.props
+C:\Users\HP\Downloads\Programacion Logica\Practica02\Practica02\Practica02\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Practica02Back.props
+C:\Users\HP\Downloads\Programacion Logica\Practica02\Practica02\Practica02\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Practica02Back.props
+C:\Users\HP\Downloads\Programacion Logica\Practica02\Practica02\Practica02\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\HP\Downloads\Programacion Logica\Practica02\Practica02\Practica02\obj\Debug\net8.0\scopedcss\bundle\Practica02Back.styles.css
+C:\Users\HP\Downloads\Programacion Logica\Practica02\Practica02\Practica02\obj\Debug\net8.0\Practica.9BB0094C.Up2Date
+C:\Users\HP\Downloads\Programacion Logica\Practica02\Practica02\Practica02\obj\Debug\net8.0\Practica02Back.dll
+C:\Users\HP\Downloads\Programacion Logica\Practica02\Practica02\Practica02\obj\Debug\net8.0\refint\Practica02Back.dll
+C:\Users\HP\Downloads\Programacion Logica\Practica02\Practica02\Practica02\obj\Debug\net8.0\Practica02Back.pdb
+C:\Users\HP\Downloads\Programacion Logica\Practica02\Practica02\Practica02\obj\Debug\net8.0\Practica02Back.genruntimeconfig.cache
+C:\Users\HP\Downloads\Programacion Logica\Practica02\Practica02\Practica02\obj\Debug\net8.0\ref\Practica02Back.dll
+C:\Users\HP\Downloads\Programacion Logica\Practica03\Practica03\Practica02\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\HP\Downloads\Programacion Logica\Practica03\Practica03\Practica02\bin\Debug\net8.0\appsettings.json
+C:\Users\HP\Downloads\Programacion Logica\Practica03\Practica03\Practica02\bin\Debug\net8.0\Practica02Back.exe
+C:\Users\HP\Downloads\Programacion Logica\Practica03\Practica03\Practica02\bin\Debug\net8.0\Practica02Back.deps.json
+C:\Users\HP\Downloads\Programacion Logica\Practica03\Practica03\Practica02\bin\Debug\net8.0\Practica02Back.runtimeconfig.json
+C:\Users\HP\Downloads\Programacion Logica\Practica03\Practica03\Practica02\bin\Debug\net8.0\Practica02Back.dll
+C:\Users\HP\Downloads\Programacion Logica\Practica03\Practica03\Practica02\bin\Debug\net8.0\Practica02Back.pdb
+C:\Users\HP\Downloads\Programacion Logica\Practica03\Practica03\Practica02\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\HP\Downloads\Programacion Logica\Practica03\Practica03\Practica02\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\HP\Downloads\Programacion Logica\Practica03\Practica03\Practica02\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\HP\Downloads\Programacion Logica\Practica03\Practica03\Practica02\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\HP\Downloads\Programacion Logica\Practica03\Practica03\Practica02\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\HP\Downloads\Programacion Logica\Practica03\Practica03\Practica02\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\HP\Downloads\Programacion Logica\Practica03\Practica03\Practica02\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\HP\Downloads\Programacion Logica\Practica03\Practica03\Practica02\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\HP\Downloads\Programacion Logica\Practica03\Practica03\Practica02\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\HP\Downloads\Programacion Logica\Practica03\Practica03\Practica02\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\HP\Downloads\Programacion Logica\Practica03\Practica03\Practica02\obj\Debug\net8.0\Practica02Back.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\Programacion Logica\Practica03\Practica03\Practica02\obj\Debug\net8.0\Practica02Back.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\Programacion Logica\Practica03\Practica03\Practica02\obj\Debug\net8.0\Practica02Back.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\Programacion Logica\Practica03\Practica03\Practica02\obj\Debug\net8.0\Practica02Back.AssemblyInfo.cs
+C:\Users\HP\Downloads\Programacion Logica\Practica03\Practica03\Practica02\obj\Debug\net8.0\Practica02Back.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\Programacion Logica\Practica03\Practica03\Practica02\obj\Debug\net8.0\Practica02Back.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HP\Downloads\Programacion Logica\Practica03\Practica03\Practica02\obj\Debug\net8.0\Practica02Back.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\Downloads\Programacion Logica\Practica03\Practica03\Practica02\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\HP\Downloads\Programacion Logica\Practica03\Practica03\Practica02\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\HP\Downloads\Programacion Logica\Practica03\Practica03\Practica02\obj\Debug\net8.0\staticwebassets\msbuild.Practica02Back.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\HP\Downloads\Programacion Logica\Practica03\Practica03\Practica02\obj\Debug\net8.0\staticwebassets\msbuild.build.Practica02Back.props
+C:\Users\HP\Downloads\Programacion Logica\Practica03\Practica03\Practica02\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Practica02Back.props
+C:\Users\HP\Downloads\Programacion Logica\Practica03\Practica03\Practica02\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Practica02Back.props
+C:\Users\HP\Downloads\Programacion Logica\Practica03\Practica03\Practica02\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\HP\Downloads\Programacion Logica\Practica03\Practica03\Practica02\obj\Debug\net8.0\scopedcss\bundle\Practica02Back.styles.css
+C:\Users\HP\Downloads\Programacion Logica\Practica03\Practica03\Practica02\obj\Debug\net8.0\Practica.9BB0094C.Up2Date
+C:\Users\HP\Downloads\Programacion Logica\Practica03\Practica03\Practica02\obj\Debug\net8.0\Practica02Back.dll
+C:\Users\HP\Downloads\Programacion Logica\Practica03\Practica03\Practica02\obj\Debug\net8.0\refint\Practica02Back.dll
+C:\Users\HP\Downloads\Programacion Logica\Practica03\Practica03\Practica02\obj\Debug\net8.0\Practica02Back.pdb
+C:\Users\HP\Downloads\Programacion Logica\Practica03\Practica03\Practica02\obj\Debug\net8.0\Practica02Back.genruntimeconfig.cache
+C:\Users\HP\Downloads\Programacion Logica\Practica03\Practica03\Practica02\obj\Debug\net8.0\ref\Practica02Back.dll

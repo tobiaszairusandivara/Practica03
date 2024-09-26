@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "s7z0rvA2ifjGsAja+kjhJKJXp+d71C8opZB1t+VKay4=",
+  "Source": "Practica02WebApi",
+  "BasePath": "_content/Practica02WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\HP\\Downloads\\Programacion Logica\\Practica03\\Practica03\\Practica02\\Practica02Back.csproj",
+      "Version": 2,
+      "Source": "Practica02Back",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
