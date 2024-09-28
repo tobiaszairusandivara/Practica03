@@ -1,5 +1,5 @@
-﻿using Practica02.Domain;
-using Practica02.Data.DataAccess;
+﻿using Practica03.Domain;
+using Practica03.Data.DataAccess;
 using System.Data.SqlClient;
 using System.Data;
 using Practica02back.Data.Interfaces;
@@ -80,7 +80,7 @@ namespace Practica02Back.Data.Implementations
                     new SQLParameter("@nombre", updArticulo.Nombre),
                     new SQLParameter("@pre_unitario", updArticulo.PrecioUnitario)
                 };
-                return dh.ExecuteCRUDSPQuery("SP_UPDTE_ARTICULO", parametros);
+                return dh.ExecuteCRUDSPQuery("SP_UPDATE_ARTICULO", parametros);
             }
             catch (SqlException ex)
             {

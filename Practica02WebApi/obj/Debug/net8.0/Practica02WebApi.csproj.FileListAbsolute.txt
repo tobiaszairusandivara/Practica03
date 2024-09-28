@@ -128,11 +128,11 @@ C:\Users\HP\Downloads\Programacion Logica\Practica02\Practica02\Practica02WebApi
 C:\Users\HP\Downloads\Programacion Logica\Practica02\Practica02\Practica02WebApi\obj\Debug\net8.0\Practica02WebApi.pdb
 C:\Users\HP\Downloads\Programacion Logica\Practica02\Practica02\Practica02WebApi\obj\Debug\net8.0\Practica02WebApi.genruntimeconfig.cache
 C:\Users\HP\Downloads\Programacion Logica\Practica02\Practica02\Practica02WebApi\obj\Debug\net8.0\ref\Practica02WebApi.dll
-C:\Users\HP\Downloads\Programacion Logica\Practica03\Practica03\Practica02WebApi\bin\Debug\net8.0\appsettings.Development.json
-C:\Users\HP\Downloads\Programacion Logica\Practica03\Practica03\Practica02WebApi\bin\Debug\net8.0\appsettings.json
 C:\Users\HP\Downloads\Programacion Logica\Practica03\Practica03\Practica02WebApi\bin\Debug\net8.0\Practica02Back.deps.json
 C:\Users\HP\Downloads\Programacion Logica\Practica03\Practica03\Practica02WebApi\bin\Debug\net8.0\Practica02Back.runtimeconfig.json
 C:\Users\HP\Downloads\Programacion Logica\Practica03\Practica03\Practica02WebApi\bin\Debug\net8.0\Practica02Back.exe
+C:\Users\HP\Downloads\Programacion Logica\Practica03\Practica03\Practica02WebApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\HP\Downloads\Programacion Logica\Practica03\Practica03\Practica02WebApi\bin\Debug\net8.0\appsettings.json
 C:\Users\HP\Downloads\Programacion Logica\Practica03\Practica03\Practica02WebApi\bin\Debug\net8.0\Practica02WebApi.exe
 C:\Users\HP\Downloads\Programacion Logica\Practica03\Practica03\Practica02WebApi\bin\Debug\net8.0\Practica02WebApi.deps.json
 C:\Users\HP\Downloads\Programacion Logica\Practica03\Practica03\Practica02WebApi\bin\Debug\net8.0\Practica02WebApi.runtimeconfig.json
@@ -157,6 +157,7 @@ C:\Users\HP\Downloads\Programacion Logica\Practica03\Practica03\Practica02WebApi
 C:\Users\HP\Downloads\Programacion Logica\Practica03\Practica03\Practica02WebApi\obj\Debug\net8.0\Practica02WebApi.csproj.CoreCompileInputs.cache
 C:\Users\HP\Downloads\Programacion Logica\Practica03\Practica03\Practica02WebApi\obj\Debug\net8.0\Practica02WebApi.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\HP\Downloads\Programacion Logica\Practica03\Practica03\Practica02WebApi\obj\Debug\net8.0\Practica02WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\Downloads\Programacion Logica\Practica03\Practica03\Practica02WebApi\obj\Debug\net8.0\Practica02WebApi.sourcelink.json
 C:\Users\HP\Downloads\Programacion Logica\Practica03\Practica03\Practica02WebApi\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\HP\Downloads\Programacion Logica\Practica03\Practica03\Practica02WebApi\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\HP\Downloads\Programacion Logica\Practica03\Practica03\Practica02WebApi\obj\Debug\net8.0\staticwebassets\msbuild.Practica02WebApi.Microsoft.AspNetCore.StaticWebAssets.props

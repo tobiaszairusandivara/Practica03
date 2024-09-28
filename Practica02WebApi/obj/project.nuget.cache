@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nnvkw6Jeo6g=",
+  "dgSpecHash": "CWoC64xWkBY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP\\Downloads\\Programacion Logica\\Practica03\\Practica03\\Practica02WebApi\\Practica02WebApi.csproj",
+  "projectFilePath": "C:\\Users\\HP\\Downloads\\Programacion Logica\\Practica03\\Practica03\\Practica02WebApi\\Practica03WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",

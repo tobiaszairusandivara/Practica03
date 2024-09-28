@@ -1,7 +1,7 @@
 ﻿using System.Data;
 using System.Data.SqlClient;
 
-namespace Practica02.Data.DataAccess
+namespace Practica03.Data.DataAccess
 {
     public class DataHelper
     {
@@ -118,5 +118,40 @@ namespace Practica02.Data.DataAccess
             }
             return returnQuery;
         }
+
+
+
+
+
+
+        public bool ExecuteCRUDSPQueryWithTransaction(string sp, List<SQLParameter>? parametros, SqlTransaction transaction)
+        {
+            bool returnQuery = false;
+            try
+            {
+                var cmd = new SqlCommand(sp, transaction.Connection, transaction);
+                cmd.CommandType = CommandType.StoredProcedure;
+
+                if (parametros != null)
+                {
+                    foreach (var param in parametros)
+                    {
+                        cmd.Parameters.AddWithValue(param.Name, param.Value);
+                    }
+                }
+
+                if (cmd.ExecuteNonQuery() != 0)
+                {
+                    returnQuery = true;
+                }
+            }
+            catch (SqlException ex)
+            {
+                Console.WriteLine($"SQL Exception: {ex.Message}");
+                returnQuery = false;
+            }
+            return returnQuery;
+        }
+
     }
 }

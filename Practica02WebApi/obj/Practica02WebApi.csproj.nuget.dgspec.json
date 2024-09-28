@@ -29,8 +29,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\HP\\Downloads\\Programacion Logica\\Practica03\\Practica03\\Practica02\\Practica02Back.csproj": {
-                "projectPath": "C:\\Users\\HP\\Downloads\\Programacion Logica\\Practica03\\Practica03\\Practica02\\Practica02Back.csproj"
+              "C:\\Users\\HP\\Downloads\\Programacion Logica\\Practica03\\Practica03\\Practica02\\Practica03Back.csproj": {
+                "projectPath": "C:\\Users\\HP\\Downloads\\Programacion Logica\\Practica03\\Practica03\\Practica02\\Practica03Back.csproj"
               }
             }
           }
@@ -78,12 +78,12 @@
         }
       }
     },
-    "C:\\Users\\HP\\Downloads\\Programacion Logica\\Practica03\\Practica03\\Practica02\\Practica02Back.csproj": {
+    "C:\\Users\\HP\\Downloads\\Programacion Logica\\Practica03\\Practica03\\Practica02\\Practica03Back.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Downloads\\Programacion Logica\\Practica03\\Practica03\\Practica02\\Practica02Back.csproj",
-        "projectName": "Practica02Back",
-        "projectPath": "C:\\Users\\HP\\Downloads\\Programacion Logica\\Practica03\\Practica03\\Practica02\\Practica02Back.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Downloads\\Programacion Logica\\Practica03\\Practica03\\Practica02\\Practica03Back.csproj",
+        "projectName": "Practica03Back",
+        "projectPath": "C:\\Users\\HP\\Downloads\\Programacion Logica\\Practica03\\Practica03\\Practica02\\Practica03Back.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\HP\\Downloads\\Programacion Logica\\Practica03\\Practica03\\Practica02\\obj\\",
         "projectStyle": "PackageReference",

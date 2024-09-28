@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "15bkcxbRi1c=",
+  "dgSpecHash": "tl/+Pfl5hyA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP\\Downloads\\Programacion Logica\\Practica03\\Practica03\\Practica02\\Practica02Back.csproj",
+  "projectFilePath": "C:\\Users\\HP\\Downloads\\Programacion Logica\\Practica03\\Practica03\\Practica02\\Practica03Back.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",

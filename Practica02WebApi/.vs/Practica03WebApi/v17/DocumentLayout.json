@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\HP\\Downloads\\Programacion Logica\\Practica02\\Practica02\\Practica02WebApi\\",
+  "WorkspaceRootPath": "C:\\Users\\HP\\Downloads\\Programacion Logica\\Practica03\\Practica03\\Practica03WebApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0610F420-9481-48C8-8AED-AABA621168C0}|Practica03WebApi.csproj|c:\\users\\hp\\downloads\\programacion logica\\practica02\\practica02\\practica02webapi\\practica03webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{0610F420-9481-48C8-8AED-AABA621168C0}|Practica03WebApi.csproj|solutionrelative:practica03webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Downloads\\Programacion Logica\\Practica03\\Practica03\\Practica03WebApi\\Practica03WebApi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Practica03WebApi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0610F420-9481-48C8-8AED-AABA621168C0}|Practica02WebApi.csproj|c:\\users\\hp\\downloads\\programacion logica\\practica02\\practica02\\practica02webapi\\controllers\\articuloscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0610F420-9481-48C8-8AED-AABA621168C0}|Practica02WebApi.csproj|solutionrelative:controllers\\articuloscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Downloads\\Programacion Logica\\Practica03\\Practica03\\Practica03WebApi\\Controllers\\ArticulosController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\ArticulosController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,12 +35,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Practica02WebApi.csproj",
-              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Programacion Logica\\Practica02\\Practica02\\Practica02WebApi\\Practica03WebApi.csproj",
+              "Title": "Practica03WebApi.csproj",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Programacion Logica\\Practica03\\Practica03\\Practica03WebApi\\Practica03WebApi.csproj",
               "RelativeDocumentMoniker": "Practica03WebApi.csproj",
-              "ToolTip": "C:\\Users\\HP\\Downloads\\Programacion Logica\\Practica02\\Practica02\\Practica02WebApi\\Practica03WebApi.csproj*",
-              "RelativeToolTip": "Practica03WebApi.csproj*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Programacion Logica\\Practica03\\Practica03\\Practica03WebApi\\Practica03WebApi.csproj",
+              "RelativeToolTip": "Practica03WebApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-09-14T18:31:52.117Z",
               "EditorCaption": ""
@@ -49,14 +49,13 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "ArticulosController.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Programacion Logica\\Practica02\\Practica02\\Practica02WebApi\\Controllers\\ArticulosController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Programacion Logica\\Practica03\\Practica03\\Practica03WebApi\\Controllers\\ArticulosController.cs",
               "RelativeDocumentMoniker": "Controllers\\ArticulosController.cs",
-              "ToolTip": "C:\\Users\\HP\\Downloads\\Programacion Logica\\Practica02\\Practica02\\Practica02WebApi\\Controllers\\ArticulosController.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Programacion Logica\\Practica03\\Practica03\\Practica03WebApi\\Controllers\\ArticulosController.cs",
               "RelativeToolTip": "Controllers\\ArticulosController.cs",
               "ViewState": "AgIAAEQAAAAAAAAAAAAiwFQAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-14T18:13:26.937Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-14T18:13:26.937Z"
             }
           ]
         }

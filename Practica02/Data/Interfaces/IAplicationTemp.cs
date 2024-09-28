@@ -1,5 +1,5 @@
 ﻿using Practica01.Domain;
-using Practica02.Domain;
+using Practica03.Domain;
 
 namespace Practica02Back.Data.Interfaces
 {
@@ -7,7 +7,7 @@ namespace Practica02Back.Data.Interfaces
     {
         bool Create(Factura oFactura);
         List<Factura> GetAll();
-        Factura? GetByParam(DateTime fec, int id_forma_pag);
+        Factura? GetByParam(DateTime? fec, int? id_forma_pag);
         bool Update(int id, Factura updFactura);
     }
 }

@@ -112,7 +112,7 @@ END
 GO
 
 
-CREATE PROCEDURE SP_UPDTE_ARTICULO
+CREATE PROCEDURE SP_UPDATE_ARTICULO
 @id_articulo INT, @nombre VARCHAR(40), @pre_unitario INT
 AS
 BEGIN
@@ -125,29 +125,93 @@ GO
 
 
 -------------PROCEDIMIENTOS ALMACENADOS
+
+--CREATE PROCEDURE SP_GET_ALL_FACTURA 
+--AS
+--BEGIN
+--SELECT *
+--FROM Facturas 
+--END
+--GO
+
 CREATE PROCEDURE SP_GET_ALL_FACTURA
 AS
 BEGIN
-SELECT *
-FROM Facturas 
+    SELECT 
+        f.nro_factura,
+        f.fecha,
+        f.id_forma_pago,
+        f.cliente,
+        df.id_articulo,
+        df.cantidad
+    FROM 
+        Facturas f
+    INNER JOIN 
+        DetallesFactura df ON f.nro_factura = df.nro_factura
+    ORDER BY 
+        f.nro_factura, df.id_detalle;
+END;
+GO
+
+
+CREATE PROCEDURE SP_CREATE_FACTURA
+    @fecha DATE,
+    @id_forma_pago INT,
+    @cliente VARCHAR(40)
+AS
+BEGIN
+    BEGIN TRANSACTION;
+
+    BEGIN TRY
+        -- Inserta los datos en la tabla Facturas
+        INSERT INTO Facturas(fecha, id_forma_pago, cliente) 
+        VALUES(@fecha, @id_forma_pago, @cliente);
+
+        COMMIT TRANSACTION;
+    END TRY
+    BEGIN CATCH
+        -- Si ocurre un error, deshacer la transacción
+        ROLLBACK TRANSACTION;
+        THROW;
+    END CATCH;
 END
 GO
 
-CREATE PROCEDURE SP_UPDATE_FACTURA_CON_DETALLE
+
+
+CREATE PROCEDURE SP_CREATE_DETALLE
+    @nro_factura INT,
+    @id_articulo INT,
+    @cantidad INT
+AS
+BEGIN
+    BEGIN TRANSACTION;
+
+    BEGIN TRY
+        -- Inserta los detalles en la tabla DetallesFactura
+        INSERT INTO DetallesFactura(nro_factura, id_articulo, cantidad) 
+        VALUES(@nro_factura, @id_articulo, @cantidad);
+
+        COMMIT TRANSACTION;
+    END TRY
+    BEGIN CATCH
+        -- Si ocurre un error, deshacer la transacción
+        ROLLBACK TRANSACTION;
+        THROW;
+    END CATCH;
+END
+GO
+
+
+CREATE PROCEDURE SP_UPDATE_FACT
     @nro_factura INT,
     @fecha DATE,
     @id_forma_pago INT,
-    @cliente VARCHAR(40),
-    -- Parámetros para el detalle
-    @id_detalle INT,
-    @id_articulo INT,
-    @cantidad INT
-
+    @cliente VARCHAR(40)
 AS
 BEGIN
-
     BEGIN TRANSACTION;
-    
+
     BEGIN TRY
         -- Actualizar la cabecera de la factura
         UPDATE Facturas
@@ -156,54 +220,65 @@ BEGIN
             cliente = @cliente
         WHERE nro_factura = @nro_factura;
 
-        -- Actualizar el detalle de la factura (artículos)
-        UPDATE DetallesFactura
-        SET id_articulo = @id_articulo, 
-            cantidad = @cantidad 
-        WHERE id_detalle = @id_detalle AND nro_factura = @nro_factura;
-
-        -- Confirmar la transacción si todo va bien
         COMMIT TRANSACTION;
     END TRY
     BEGIN CATCH
-        -- Si hay un error, deshacer la transacción
+
         ROLLBACK TRANSACTION;
         THROW;
     END CATCH;
 END
 GO
 
---CREATE PROCEDURE SP_GET_ALL_DETALLE
---@nro_factura INT
---AS
---BEGIN
---SELECT *
---FROM DetallesFactura 
---END
---GO
+
+CREATE PROCEDURE SP_UPDATE_DET
+    @id_detalle INT,
+    @nro_factura INT,
+    @id_articulo INT,
+    @cantidad INT
+AS
+BEGIN
+    BEGIN TRANSACTION;
+
+    BEGIN TRY
+        UPDATE DetallesFactura
+        SET id_articulo = @id_articulo, 
+            cantidad = @cantidad 
+        WHERE id_detalle = @id_detalle AND nro_factura = @nro_factura;
+
+        COMMIT TRANSACTION;
+    END TRY
+    BEGIN CATCH
+
+        ROLLBACK TRANSACTION;
+        THROW;
+    END CATCH;
+END
+GO
 
 
---CREATE PROCEDURE SP_GET_ID_FACTURA
---@nro_factura INT
---AS
---BEGIN
---SELECT *
---FROM Facturas
---WHERE nro_factura = @nro_factura
---END
---GO
+CREATE PROCEDURE SP_GET_PARAM_FACTURA
+    @fecha DATE,
+    @id_forma_pago INT
+AS
+BEGIN
+    SET NOCOUNT ON;
 
-
-
---CREATE PROCEDURE SP_GET_ID_DETALLE
---@nro_factura INT
---AS
---BEGIN
---SELECT *
---FROM DetallesFactura 
---WHERE nro_factura = @nro_factura
---END
---GO
-
+    SELECT 
+        f.nro_factura, 
+        f.fecha, 
+        f.id_forma_pago, 
+        f.cliente,
+        d.id_articulo,
+        d.cantidad
+    FROM 
+        Facturas f
+    JOIN 
+        DetallesFactura d ON f.nro_factura = d.nro_factura
+    WHERE 
+        f.fecha = @fecha OR
+        f.id_forma_pago = @id_forma_pago;
+END
+GO
 
 

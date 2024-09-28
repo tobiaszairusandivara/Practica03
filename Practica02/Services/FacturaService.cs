@@ -1,7 +1,7 @@
 ﻿using Practica01.Domain;
 using Practica02Back.Data.Implementations;
 using Practica02Back.Data.Interfaces;
-using Practica02.Domain;
+using Practica03.Domain;
 using Practica02back.Data.Interfaces;
 
 namespace Practica02Back.Services

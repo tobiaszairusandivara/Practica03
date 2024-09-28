@@ -1,10 +1,10 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Practica01.Domain;
-using Practica02.Domain;
+using Practica03.Domain;
 using Practica02Back.Services;
 
-namespace Practica02WebApi.Controllers
+namespace Practica03WebApi.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
@@ -35,15 +35,35 @@ namespace Practica02WebApi.Controllers
                     return BadRequest("Error. No se brindaron todos los datos solicitados");
                 }
                 if (service.CreateFact(oFactura))
-                    return Ok("Articulo creado con exito!");
+                    return Ok("Factura creada con exito!");
                 else
                 {
-                    return StatusCode(500, "No se pudo crear el articulo");
+                    return StatusCode(500, "No se pudo crear la factura");
                 }
             }
             catch
             {
                 return StatusCode(500, "Se produjo un error interno");
+            }
+        }
+
+
+        [HttpGet("search")]
+        public IActionResult GetFacturaByParams(DateTime fec, int id_forma_pag)
+        {
+            try
+            {
+                var factura = service.GetFactParam(fec, id_forma_pag);
+                if (factura != null)
+                {
+                    return Ok(factura);
+                }
+                return NotFound("Factura no encontrada.");
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine($"Error interno: {ex.Message}");
+                return StatusCode(500, "Se produjo un error interno.");
             }
         }
 

@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Components.Forms;
 using Practica01.Domain;
-using Practica02.Domain;
+using Practica03.Domain;
 
 namespace Practica02back.Data.Interfaces
 {

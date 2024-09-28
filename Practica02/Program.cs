@@ -1,5 +1,5 @@
 using Practica02Back.Data.Implementations;
-using Practica02.Domain;
+using Practica03.Domain;
 using Practica02Back.Services;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -30,7 +30,7 @@ app.Run();
 
 
 
-namespace Practica02
+namespace Practica03
 {
     class Program
     {

@@ -234,7 +234,7 @@
           }
         }
       },
-      "Practica02Back/1.0.0": {
+      "Practica03Back/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
@@ -242,10 +242,10 @@
           "System.Data.SqlClient": "4.8.6"
         },
         "compile": {
-          "bin/placeholder/Practica02Back.dll": {}
+          "bin/placeholder/Practica03Back.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Practica02Back.dll": {}
+          "bin/placeholder/Practica03Back.dll": {}
         },
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
@@ -896,15 +896,15 @@
         "version.txt"
       ]
     },
-    "Practica02Back/1.0.0": {
+    "Practica03Back/1.0.0": {
       "type": "project",
-      "path": "../Practica02/Practica02Back.csproj",
-      "msbuildProject": "../Practica02/Practica02Back.csproj"
+      "path": "../Practica02/Practica03Back.csproj",
+      "msbuildProject": "../Practica02/Practica03Back.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "Practica02Back >= 1.0.0",
+      "Practica03Back >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.4.0"
     ]
   },
@@ -914,9 +914,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\Downloads\\Programacion Logica\\Practica03\\Practica03\\Practica02WebApi\\Practica02WebApi.csproj",
-      "projectName": "Practica02WebApi",
-      "projectPath": "C:\\Users\\HP\\Downloads\\Programacion Logica\\Practica03\\Practica03\\Practica02WebApi\\Practica02WebApi.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\Downloads\\Programacion Logica\\Practica03\\Practica03\\Practica02WebApi\\Practica03WebApi.csproj",
+      "projectName": "Practica03WebApi",
+      "projectPath": "C:\\Users\\HP\\Downloads\\Programacion Logica\\Practica03\\Practica03\\Practica02WebApi\\Practica03WebApi.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\HP\\Downloads\\Programacion Logica\\Practica03\\Practica03\\Practica02WebApi\\obj\\",
       "projectStyle": "PackageReference",
@@ -936,8 +936,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\HP\\Downloads\\Programacion Logica\\Practica03\\Practica03\\Practica02\\Practica02Back.csproj": {
-              "projectPath": "C:\\Users\\HP\\Downloads\\Programacion Logica\\Practica03\\Practica03\\Practica02\\Practica02Back.csproj"
+            "C:\\Users\\HP\\Downloads\\Programacion Logica\\Practica03\\Practica03\\Practica02\\Practica03Back.csproj": {
+              "projectPath": "C:\\Users\\HP\\Downloads\\Programacion Logica\\Practica03\\Practica03\\Practica02\\Practica03Back.csproj"
             }
           }
         }

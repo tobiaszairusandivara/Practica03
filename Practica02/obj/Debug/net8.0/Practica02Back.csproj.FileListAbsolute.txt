@@ -137,6 +137,7 @@ C:\Users\HP\Downloads\Programacion Logica\Practica03\Practica03\Practica02\obj\D
 C:\Users\HP\Downloads\Programacion Logica\Practica03\Practica03\Practica02\obj\Debug\net8.0\Practica02Back.csproj.CoreCompileInputs.cache
 C:\Users\HP\Downloads\Programacion Logica\Practica03\Practica03\Practica02\obj\Debug\net8.0\Practica02Back.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\HP\Downloads\Programacion Logica\Practica03\Practica03\Practica02\obj\Debug\net8.0\Practica02Back.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\Downloads\Programacion Logica\Practica03\Practica03\Practica02\obj\Debug\net8.0\Practica02Back.sourcelink.json
 C:\Users\HP\Downloads\Programacion Logica\Practica03\Practica03\Practica02\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\HP\Downloads\Programacion Logica\Practica03\Practica03\Practica02\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\HP\Downloads\Programacion Logica\Practica03\Practica03\Practica02\obj\Debug\net8.0\staticwebassets\msbuild.Practica02Back.Microsoft.AspNetCore.StaticWebAssets.props

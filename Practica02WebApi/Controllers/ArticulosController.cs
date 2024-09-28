@@ -1,10 +1,10 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using Practica02.Domain;
+using Practica03.Domain;
 using Practica02Back.Services;
 using System.Diagnostics.Eventing.Reader;
 
-namespace Practica02.Controllers
+namespace Practica03.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]

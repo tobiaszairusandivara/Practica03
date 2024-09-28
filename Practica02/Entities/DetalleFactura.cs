@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Practica02.Domain
+namespace Practica03.Domain
 {
     public class DetalleFactura
     {

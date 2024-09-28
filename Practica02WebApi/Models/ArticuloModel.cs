@@ -1,4 +1,4 @@
-﻿namespace Practica02.Models
+﻿namespace Practica03.Models
 {
     public class ArticuloModel
     {

@@ -1,4 +1,4 @@
-﻿namespace Practica02.Data.DataAccess
+﻿namespace Practica03.Data.DataAccess
 {
     public class SQLParameter
     {

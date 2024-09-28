@@ -1,6 +1,8 @@
-﻿using System;
+﻿using Practica03.Domain;
+using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -10,9 +12,11 @@ namespace Practica01.Domain
     {
         private int nroFactura;
         private DateTime fecha;
-        //private FormaPago formaPago;
         private int formaPago;
-        private string cliente; 
+        private string cliente;
+        private DetalleFactura detalleFactura;
+        public List<DetalleFactura> DetalleFactura { get; set; }
+
 
         public Factura()
         {
@@ -20,6 +24,7 @@ namespace Practica01.Domain
             fecha = DateTime.Now;
             formaPago = 0;
             cliente = string.Empty;
+            DetalleFactura = new List<DetalleFactura>();
         }
 
         public Factura(int nroFactura, DateTime fecha, int formaPago, string cliente)
@@ -28,6 +33,7 @@ namespace Practica01.Domain
             this.fecha = fecha;
             this.formaPago = formaPago;
             this.cliente = cliente;
+            DetalleFactura = new List<DetalleFactura>();
         }
          
         public int NroFactura
@@ -52,6 +58,17 @@ namespace Practica01.Domain
         {
             get { return this.cliente; }
             set { this.cliente = value; }
+        }
+
+        public void AddDetail(DetalleFactura detalle)
+        {
+            if (detalle != null)
+            DetalleFactura.Add(detalle);
+        }
+
+        public void RemoveDetail(int index)
+        {
+            DetalleFactura.RemoveAt(index);
         }
     }
 }
