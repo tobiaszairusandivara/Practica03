@@ -1,5 +1,3 @@
-Mejoras que deberia hacer:
--Hacer que el IAplication se ocupe de los CRUD de facturas y articulos en lugar de tener dos diferentes (comparten service al menos)
--Verificar los procedimientos almacenados
--Renombrar el proyecto y los namespaces
--Agregar lo faltante (Metodos HTTP y SP)
+-CREATE FACTURA_DETALLE WEB API NO ANDA
+-ID_DETALLE Y NRO_FACTURA AL RECUPERARSE RETORNAN 0 PERO EN SQL FUNCIONAN BIEN
+-GET BY PARAM SOLO ANDA SI TIENE LOS DOS PARAMETROS, EJ: 2024-09-32 (FECHA) Y 2 (ID_FORMA_PAGO)
